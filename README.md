@@ -1,8 +1,8 @@
-# Bellabeat-Case-Study
+            # Bellabeat-Case-Study
 ## Introduction ##
-The Bellabeat data analysis case study was performed  for a high-tech manufacturer of health-focused products for women,  It focused on key business questions, following  the steps of the data analysis process: ask, prepare, process, analyze, share, and act. Along the way, the Case Study Roadmap tables — including guiding questions and key tasks 
+The Bellabeat case study: high-tech manufacturer of health-focused products for women. 
 ## Scenario ## 
-Bellabeat is a successful small company, but they have the potential to become a larger player in the market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. The project will focus on one of Bellabeat’s product and analyze smart device data to gain insight into how consumers are using their smart devices. The insights discovered will then help guide marketing strategy for the company. 
+Bellabeat is a successful small company, but they have the potential to become a larger player in the market. The company believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. The project will focus on one of Bellabeat’s product and analyze smart device data to gain insight into how consumers are using their smart devices. The insights discovered will then help guide marketing strategy for the company. 
 ### Ask ###
 
 1.	What are some trends in smart device usage? 
